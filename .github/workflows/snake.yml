@@ -14,7 +14,6 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: Tiuoner
           svg_out_path: dist/github-contribution-grid-snake.svg
 
