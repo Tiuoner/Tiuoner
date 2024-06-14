@@ -1,0 +1,86 @@
+## Seja bem vindo, sou o Oner e é um prazer ter você aqui!
+
+  - 🔭 **Atualmente estou trabalhando em**:
+	  - Neste momento, você está imerso em um ambiente de trabalho tecnologicamente avançado na IBM, uma das maiores empresas de tecnologia do mundo. Rodeado por múltiplos monitores exibindo linhas de código e diagramas de sistemas, você está profundamente focado em desenvolver softwares inovadores para a Petrobras. Seu trabalho combina habilidades em programação e engenharia de software, permitindo a criação de soluções que otimizam as operações de uma das maiores empresas de petróleo e gás do mundo. Você colabora com uma equipe diversificada de profissionais talentosos, compartilhando ideias e solucionando problemas complexos. Cada dia traz novos desafios e oportunidades para aprender e crescer profissionalmente, enquanto você contribui significativamente para projetos de grande impacto na indústria de energia.
+  - 🌱 **Atualmente estou aprendendo**:
+	  - *Python*
+		  - [*Poetry*](https://python-poetry.org/)
+		  - [*Scikit-learn*](https://scikit-learn.org/0.21/documentation.html)
+	  - *Git*
+		  - [*Git Flow*](https://www.campingcoder.com/2018/04/how-to-use-git-flow/)
+		  - [*Git Actions*](https://docs.github.com/pt/actions)
+		  - [*Git Hooks*](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks#_git_hooks)
+  - 👯 **Estou procurando colaborar em**:
+	  - Projetos Open Sources que possam acrescentar em minha carreira, projetos particulares e projoetos da empresa em que trabalho. Assim como contribuir com a comunidade de desenvolvimento [Python](https://www.python.org).
+  - 🤔 **Estou procurando ajuda com**:
+	  - Meus projetos pessoais. Então se você tem uma sugestão, opinião ou melhoria, faça um Pull Request ou deixe uma Issue em um dos repositórios.
+	  - Pessoas que possam acrescentar na minha experiência profissional e que me ajudem com a parte visual dos meus projetos. 
+  - 💬 **Pergunte-me sobre**:
+	  - Qualquer coisa, mas eu me interesso bem mais pela parte Backend!
+  - ⚡ **Curiosidade**:
+	  - Gosto de ouvir música e sou eclético, mas normalmente estou ouvindo um rap para criar meus códigos e me manter relaxado.
+	  - Apesar de ser bastante recluso, e normalmente me socializar através das redes sociais, não dispenso a companhia de boas amizades. 
+	  - Gosto de novos desafios e estou sempre envolvido em novos projetos que me desafiam.
+- 📫 **Como entrar em contato comigo**:</br>
+<div>
+  <a href="https://www.youtube.com/c/onerpy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/oner.oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/0nezer0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:caimbebr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/onerzer00/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## Minhas conquistas recentes
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eric-Coutinho&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+<!--START_SECTION:badges-->
+[![IBM Agile Explorer](https://images.credly.com/size/120x120/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/3e6ca60f-2145-4f2e-91c4-85e1daf569e1 "IBM Agile Explorer")
+[![Cybersecurity Threat Intelligence](https://images.credly.com/size/120x120/images/45c20fa0-a403-4a56-9792-1aeecc84c9cf/image.png)](http://www.credly.com/badges/c68d16d0-d314-4060-b083-4ba52298339b "Cybersecurity Threat Intelligence")
+[![Cybersecurity Fundamentals](https://images.credly.com/size/120x120/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/88a690b8-a067-487c-b4eb-0fa39ef7a78a "Cybersecurity Fundamentals")
+[![Security and Privacy by Design Foundations](https://images.credly.com/size/120x120/images/c1ca6570-bdc6-40e9-8992-722050788418/Security-_-Privacy-by-Design-Foundational.png)](http://www.credly.com/badges/a904ea83-c133-49a2-8d5a-529b16765482 "Security and Privacy by Design Foundations")
+[![Think Like a Hacker](https://images.credly.com/size/120x120/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/f6bec119-5fb7-4d3a-83c3-2a9b454f5890 "Think Like a Hacker")
+[![Aerospace and Defense Industry Jumpstart](https://images.credly.com/size/120x120/images/7c8a3fe1-d474-48b4-9334-e231c3ed8419/Aerospace-And-Defense-Industry-Jumpstart.png)](http://www.credly.com/badges/e382e1e4-49a1-403e-9d8e-0ca94d237e68 "Aerospace and Defense Industry Jumpstart")
+[![Python Essentials 1](https://images.credly.com/size/120x120/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/77e404f3-8333-49d7-b666-18f2bccd7fbd "Python Essentials 1")
+[![Data Analysis Using Python](https://images.credly.com/size/120x120/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)](http://www.credly.com/badges/d9e844d9-16ef-4bcd-9599-ca3f20088094 "Data Analysis Using Python")
+[![Data Visualization Using Python](https://images.credly.com/size/120x120/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png)](http://www.credly.com/badges/5846f0ea-1e83-47d4-91d9-50f30e3a32dc "Data Visualization Using Python")
+[![IBM watsonx Essentials](https://images.credly.com/size/120x120/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png)](http://www.credly.com/badges/a79976ec-9675-4526-8425-5e60055cdc62 "IBM watsonx Essentials")
+[![Chemicals and Petroleum Industry Jumpstart](https://images.credly.com/size/120x120/images/460ce135-603c-4f1a-80b1-57bd6038a18b/Chemicals-Petroleum-Industry-Jumpstart.png)](http://www.credly.com/badges/29d04462-aa30-4bb2-9995-f43b0ab0d428 "Chemicals and Petroleum Industry Jumpstart")
+[![Enterprise Design Thinking Practitioner](https://images.credly.com/size/120x120/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](http://www.credly.com/badges/3d4fd223-19da-457d-9e36-392170c1d43e "Enterprise Design Thinking Practitioner")
+[![IBM Garage Foundation](https://images.credly.com/size/120x120/images/9beccf39-df2f-4025-b971-3a7ec6dfdbfa/image.png)](http://www.credly.com/badges/29d0bc0b-096e-4ca5-9b18-a6da3a297b15 "IBM Garage Foundation")
+[![IBM Garage Essentials](https://images.credly.com/size/120x120/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/8e83a7e2-c39e-4647-bd5e-eb8df166eebc "IBM Garage Essentials")
+[![IBM Consulting Way Habits - Foundational](https://images.credly.com/size/120x120/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png)](http://www.credly.com/badges/24562415-31b6-45cf-a1ee-9cd0f71f3c25 "IBM Consulting Way Habits - Foundational")
+<!--END_SECTION:badges-->
+---
+### Coisas que eu ouvi recentemente 🎧
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={width=300})<img align="rigth" height="380em" width="380em" src="https://github.com/onezer00/onezer00/blob/7937057f784013fe10473288283acbd852a894dd/octocat-1661963313210.png" />
+<div>
+  <a href="https://github.com/onezer00">
+  <img height="180em" src="https://github-readme-stats-git-master-caimbebr.vercel.app/api?username=onezer00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-caimbebr.vercel.app/api/top-langs/?username=onezer00&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Oner-python" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/python-brands.svg">
+  <img align="center" alt="Oner-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/node-brands.svg">
+  <img align="center" alt="Oner-C" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/c-solid.svg">
+  <img align="center" alt="Oner-html5" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/html5-brands.svg">
+  <img align="center" alt="Oner-css3" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/css3-brands.svg">
+  <img align="center" alt="Oner-databases" height="30" width="40" src="https://github.com/onezer00/onezer00/blob/main/images/database-solid.svg">
+  <img align="center" alt="Oner-Linux" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/linux-brands.svg">
+  <img align="center" alt="Oner-ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/ubuntu-brands.svg">
+  <img align="center" alt="Oner-centos" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/centos-brands.svg">
+  <img align="center" alt="Oner-redhat" height="30" width="40" src="https://github.com/onezer00/onezer00/blob/main/images/redhat-brands.svg"/>
+  
+</div>
+
+<div style="display: inline"><br>
+  <img alt="Oner-gif" height="180" width="420" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+</div>
+
+  ##
+ 
+<img src="https://img.shields.io/github/issues/onezer00/onezer00?style=plastic" />
+<img src="https://img.shields.io/github/forks/onezer00/onezer00?style=plastic" />
+<img src="https://img.shields.io/github/stars/onezer00/onezer00?style=plastic" />
+<img src="https://img.shields.io/github/license/onezer00/onezer00?style=plastic" />
